@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Advanced Redirection Permissions
+Plugin Name: Advanced Redirection
 Description: Advanced access to Redirection
 Author: Rémi Goyard (Mimiz)
 Author URI: https://medium.com/@rgoyard
