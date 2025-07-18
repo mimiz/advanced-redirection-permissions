@@ -3,7 +3,7 @@ Contributors: mimiz
 Donate link: https://github.com/mimiz/advanced-redirection-permissions
 Tags: redirect, permissions, role
 Tested up to: 6.8
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPL-3
 
 A really simple wordpress plugin to grant users "redirection" permissions without giving other permissions

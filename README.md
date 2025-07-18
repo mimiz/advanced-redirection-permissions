@@ -4,7 +4,7 @@
 - Tags: redirect, permissions, role 
 - Tested up to: 6.8
 - Stable tag: 1.4
-- License: GPLv3
+- License: GPL-3
 
 A really simple wordpress plugin to give users "redirection" permissions without giving other permissions, this plugins needs the [Redirection Plugin](https://redirection.me) and the [Members Plugin](https://wordpress.org/plugins/members/)
 
