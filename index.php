@@ -6,7 +6,7 @@ Author: Rémi Goyard (Mimiz)
 Author URI: https://medium.com/@rgoyard
 Plugin URI: https://github.com/mimiz/advanced-redirection-permissions
 License: GPL-2.0+
-Version: 1.1
+Version: 1.3
 Requires Plugins: redirection,members
 Requires at least: 6.4
 Requires PHP: 7.0
